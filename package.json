@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/gilcreque/npx-gilcreque.git"
   },
   "scripts": {
     "prepublish": "npm run build",
